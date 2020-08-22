@@ -1,3 +1,3 @@
 # DeepLearningSpecialization
 
-This is my solution of the Deep Learning Specialization of Andrew Ng in Coursera
+This is my solution of the Andrew Ng's Deep Learning Specialization  in Coursera
